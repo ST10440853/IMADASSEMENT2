@@ -179,7 +179,8 @@ Screenshot of app running
 
  
 
- 
+ <img width="960" alt="Screenshot 2024-04-05 203828" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/ab8d5fad-a3ed-4bb2-b4d8-9f66a2c09fc2">
+
 
  
 
