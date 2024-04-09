@@ -99,6 +99,7 @@ Copy the Readme link to Brightspace to submit the ICE Task.
  
 
  
+<img width="638" alt="Screenshot 2024-04-05 192233" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/c428341e-67a4-4cc5-829a-77fd6ab83f59">
 
  
 
@@ -122,17 +123,23 @@ This screen shot is displaying the user interface and how the app would look on 
 
 Screenshots of the code of the APP 
 
+ <img width="960" alt="Screenshot 2024-04-05 192522" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/afedf9b0-7518-434e-b954-ce4644e64a9f">
+
+
  
+<img width="960" alt="Screenshot 2024-04-05 192550" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/316a7055-eafc-4334-9456-2869612d2ef5">
+
+
+ <img width="960" alt="Screenshot 2024-04-05 192609" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/a91b6351-4911-4ab0-8f6e-55b73cafe4a6">
+
+
+ 
+<img width="960" alt="Screenshot 2024-04-05 192731" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/683f5800-834c-4ca2-a219-a5b93870e6e4">
 
  
 
- 
+ <img width="960" alt="Screenshot 2024-04-05 192731" src="https://github.com/ST10440853/IMADASSEMENT2/assets/161335863/10d49dd2-ec56-44d1-9770-16a78ee7c90e">
 
- 
-
- 
-
- 
 
  
 
